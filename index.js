@@ -11,7 +11,7 @@ const record = [
 ]
 
 function superbowlWin(arr, Object) {
-  
+  return record.
 }
 
 let result = record.find()
@@ -22,7 +22,7 @@ const inventory = [
   {name: 'bananas', quantity: 0},
   {name: 'cherries', quantity: 5}
 ];
-
 function isCherries(fruit) {
   return fruit.name === 'cherries';
 }
+inventory.find(isCherries)
