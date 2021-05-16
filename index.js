@@ -10,11 +10,6 @@ const record = [
   {year: "2016", result: "N/A"}
 ]
 
-function superbowlWin(arr, Object) {
-  return record.
-}
-
-let result = record.find()
 
 
 function superbowlWin(superbowls){
